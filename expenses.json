@@ -1,5 +1,6 @@
 {
 "Expenses" : [{"name": "Fuel", "Amount": 500.0, "desc": "Car petrol"}, 
-              {"name": "Food", "Amount": 500.0, "desc": "Lunch"} ]
+              {"name": "Food", "Amount": 1500.0, "desc": "Lunch"},
+              {"name": "EMI", "Amount": 15000.0, "desc": "Home Loan"},]
 
 }
